@@ -6,7 +6,7 @@
 <version>1.0.1-SNAPSHOT</version>
 <name>NumberGenerator</name>
 <properties>
-<jdk.version>1.8.0</jdk.version>
+<jdk.version>1.7</jdk.version>
 </properties>
 <build>
 <plugins>
